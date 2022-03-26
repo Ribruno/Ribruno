@@ -4,9 +4,9 @@
 <h2 align="center"> 🔮|🙋🏾‍♂️|🎸</h2>
 <h3 align="center"> 🟪 ⟩ Toco baixo, e estou testanto mundos novos na area da programação ⟨ 🟪</h3>
 <p align="center"> 🟪 ⟩ I'm a bass player and i'm testing a new world in programation area ⟨ 🟪</p>
-<h2 align="center">ヾ(・ω・*) </h2>
+<h2 align="center">ᕕ(ᐛ)ᕗ </h2>
 <br><br>
-<img align="left" width="200px" src="download.png">
+<img align="left" width="200px" src="face.jpg">
 <h2 align="left"> 🔳 ⟩ Sempre gostei de computadores, apartir dos 14 comecei a mexer com musica e alguns softwares de produção musical. ⟨ 🔳</h2>
 <p align="left"> 🔳 ⟩ E agora estou me aventurando nesse mundo de preogramação, as vezes tentando, errando bastante, mas sempre aprendendo. ⟨ 🔳 </p>
 <br><br>
