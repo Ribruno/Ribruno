@@ -11,10 +11,10 @@
 <p align="left"> 🔳 ⟩ E agora estou me aventurando nesse mundo de preogramação, as vezes tentando, errando bastante, mas sempre aprendendo. ⟨ 🔳 </p>
 <br><br>
 <h1 align="center"> 🎮⟩ Conquistas a serem desbloqueadas ⟨ 🎮</h1>
-<h3>
+<h2>
 ⌛ ⟨ Atingir o sucesso na carreira musical <br>
 ⌛ ⟨ Criar um jogo baseado na historia de Leagur of Legends no estilo Dungeon Crawler <br>
 ⌛ ⟨ ter uma boa noção de como programar em C/Lua/Python/Rust ETC:.<br>
 ⌛ ⟨ Criar um Jogo do zero<br>
-</h3>
+</h2>
   
